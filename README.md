@@ -25,7 +25,7 @@ Check out the Holy Unblocker Discord server: https://discord.gg/JFDCJzFana
 
 | Platform | @                                                                                                                        |
 | -------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Discord  | [@reedzyseason](https://discord.com/users/926324202519273482)                                                            |
+| Discord  | [@reedswork](https://discord.com/users/926324202519273482)                                                               |
 | Signal   | [reezy.01](https://signal.me/#eu/u-th8lgsht-OjEgkq1UrKFRJ9xZMzN2aX4vE13s0r0Ox3f9TT5BPe7jyziaWud8c)                       |
 | Matrix   | @reedswork:envs.net                                                                                                      |
 | Session  | 05e73d1e657d2bee3e4801afeb100c0c2c3982ac487fa2093b6695e78b71e5ad592bee3e4801afeb100c0c2c3982ac487fa2093b6695e78b71e5ad59 |
