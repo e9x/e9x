@@ -4,7 +4,6 @@ I'm e9x. I also go by many other names:
 
 - Susshi
 - Divide
-- David
 - the rest are a secret... 🤫
 
 I love VPN software.
@@ -17,17 +16,33 @@ I also like to mess with chromebooks.
 
 - [chrome100](https://github.com/e9x/chrome100)
 
-I do not associate with any development group with the exception of Holy Unblocker.
+Development groups:
+
+- [Holy Unblocker](https://holyweb.work/)
 
 Check out the Holy Unblocker Discord server: https://discord.gg/JFDCJzFana
 
 <img alt="Contact" src="./contact.gif" width="276" height="91">
 
-| Platform | @                                                                                                                        |
-| -------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Discord  | [@reedswork](https://discord.com/users/926324202519273482)                                                               |
-| Signal   | [reezy.01](https://signal.me/#eu/u-th8lgsht-OjEgkq1UrKFRJ9xZMzN2aX4vE13s0r0Ox3f9TT5BPe7jyziaWud8c)                       |
-| Matrix   | @reedswork:envs.net                                                                                                      |
-| Session  | 05e73d1e657d2bee3e4801afeb100c0c2c3982ac487fa2093b6695e78b71e5ad592bee3e4801afeb100c0c2c3982ac487fa2093b6695e78b71e5ad59 |
+## Susshi's Business Card 💜
 
-<p align="center"><img src="./docker.png" alt="the docker reward" width="417" height="311"></p>
+| service    | handle                                                                                                                   |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 📩 EMAIL   | reedswork@proton.me                                                                                                      |
+| 🎩 HOLY UB | https://discord.gg/VZguJSmMcN                                                                                            |
+| 💬 DISCORD | [@reedswork](https://discord.com/users/926324202519273482)                                                               |
+| 📜 GITHUB  | [reezy.01](https://signal.me/#eu/u-th8lgsht-OjEgkq1UrKFRJ9xZMzN2aX4vE13s0r0Ox3f9TT5BPe7jyziaWud8c)                       |
+| 💬 SIGNAL  | [reedswork.01](https://signal.me/#eu/fvSxhtYUhQTsXVyKeoEI95vodF8f5hoAi6ISY9wZUV0dYH-HGj9LNpsHNWpqC_ME)                   |
+| 👾 MATRIX  | @reedswork:envs.net                                                                                                      |
+| 🤫 SESSION | 05e73d1e657d2bee3e4801afeb100c0c2c3982ac487fa2093b6695e78b71e5ad592bee3e4801afeb100c0c2c3982ac487fa2093b6695e78b71e5ad59 |
+| 🤫 XMPP    | pokertonight@0day.im                                                                                                     |
+
+Business hours: 12 PM - 7 PM EST
+
+<img alt="Contact" src="./stats.gif" width="182" height="90">
+
+![e9x's Stats](https://github-readme-stats.vercel.app/api?username=e9x&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+![e9x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=e9x&theme=default&hide_border=true)
+
+![e9x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e9x&theme=default&show_icons=true&hide_border=true&layout=compact)
