@@ -32,7 +32,7 @@ Check out the Holy Unblocker Discord server: https://discord.gg/JFDCJzFana
 | 🎩 HOLY UB | https://discord.gg/VZguJSmMcN                                                                                            |
 | 💬 DISCORD | [@reedswork](https://discord.com/users/926324202519273482)                                                               |
 | 📜 GITHUB  | <https://github.com/e9x>                                                                                                 |
-| 💬 SIGNAL  | [reedswork.01](https://signal.me/#eu/fvSxhtYUhQTsXVyKeoEI95vodF8f5hoAi6ISY9wZUV0dYH-HGj9LNpsHNWpqC_ME)                   |
+| 💬 SIGNAL  | [reedswork.01](https://signal.me/#eu/GLlIPj1miV1_Jy9PQeY2gDU7IP1IltuaT6S_0xHSZKfW6uCztqdOt4Sf-LnV5J3N)                   |
 | 👾 MATRIX  | @reedswork:envs.net                                                                                                      |
 | 🤫 SESSION | 05e73d1e657d2bee3e4801afeb100c0c2c3982ac487fa2093b6695e78b71e5ad592bee3e4801afeb100c0c2c3982ac487fa2093b6695e78b71e5ad59 |
 | 🤫 XMPP    | pokertonight@0day.im                                                                                                     |
