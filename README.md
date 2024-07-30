@@ -1,16 +1,17 @@
 <img alt="Susshi" src="./susshi.gif" width="239" height="94">
 
-I'm e9x. I also go by many other names:
+I like to go by Susshi, but here are some of my other names:
 
-- Susshi
+- e9x
 - Divide
-- the rest are a secret... 🤫
+- David
+- ~~the rest are a secret...~~ 🔒🤫
 
-I love VPN software.
+I love VPN and proxy software.
 
-- [the bare server/tomphttp](https://github.com/tomphttp/bare-server-node)
-- [ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
-- [holy unblocker](https://github.com/holywebwork/website2)
+- [TompHTTP/The Bare server](https://github.com/tomphttp/bare-server-node)
+- [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
+- [Holy Unblocker](https://github.com/holywebwork/website2)
 
 I also like to mess with chromebooks.
 
