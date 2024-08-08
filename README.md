@@ -36,7 +36,6 @@ Check out the Holy Unblocker Discord server: https://discord.gg/JFDCJzFana
 | 💬 SIGNAL  | [reedswork.01](https://signal.me/#eu/GLlIPj1miV1_Jy9PQeY2gDU7IP1IltuaT6S_0xHSZKfW6uCztqdOt4Sf-LnV5J3N)                   |
 | 👾 MATRIX  | @reedswork:envs.net                                                                                                      |
 | 🤫 SESSION | 05e73d1e657d2bee3e4801afeb100c0c2c3982ac487fa2093b6695e78b71e5ad592bee3e4801afeb100c0c2c3982ac487fa2093b6695e78b71e5ad59 |
-| 🤫 XMPP    | pokertonight@0day.im                                                                                                     |
 
 Business hours: 12 PM - 7 PM EST
 
