@@ -21,7 +21,7 @@ Development groups:
 
 - [Holy Unblocker](https://holyweb.work/)
 
-Check out the Holy Unblocker Discord server: https://discord.gg/JFDCJzFana
+Check out the Holy Unblocker Discord server: https://discord.gg/VZguJSmMcN
 
 <img alt="Contact" src="./contact.gif" width="276" height="91">
 
