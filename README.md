@@ -1,5 +1,7 @@
 <img alt="Susshi" src="./susshi.gif" width="239" height="94">
 
+  <img src="https://img.shields.io/badge/aldisud?style=for-the-badge&logo=aldisud&logoColor=white">
+
 I love VPN and proxy software.
 
 - [TompHTTP/The Bare server](https://github.com/tomphttp/bare-server-node)
@@ -21,3 +23,4 @@ I also like to mess with Chromebooks.
 <img alt="Accomplishments" src="./accomplishments.gif" width="624" height="94">
 
 <img alt="king of docker" src="./docker.png" width="417" height="311">
+
