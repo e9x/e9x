@@ -1,6 +1,6 @@
 <img alt="Susshi" src="./susshi.gif" width="239" height="94">
 
-  <img src="https://img.shields.io/badge/aldisud?style=for-the-badge&logo=aldisud&logoColor=white">
+![Aldi Sud](https://img.shields.io/badge/Aldi%20Sud-aldisud-AHH?style=flat&logo=aldisud&logoColor=white)
 
 I love VPN and proxy software.
 
