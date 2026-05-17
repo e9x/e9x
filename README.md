@@ -4,9 +4,15 @@
 
 I love VPN and proxy software.
 
-- [TompHTTP/The Bare server](https://github.com/tomphttp/bare-server-node)
+If you’ve ever used one of these to play games in class instead of learning, I am partially responsible for your terrible grades. You're welcome. <:
+
 - [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
-- [Holy Unblocker](https://github.com/holywebwork/website2)
+- [Ultraviolet (Deploy)](https://github.com/titaniumnetwork-dev/Ultraviolet-App)
+- [Holy Unblocker](https://github.com/holy-unblocker/website2)
+- [Holy Unblocker (Deploy)](https://github.com/holy-unblocker/website-legacy-aio)
+- [TompHTTP Specifications](https://github.com/tomphttp/bare-server-node)
+- [@tomphttp/bare-server-node](https://www.npmjs.com/package/@tomphttp/bare-server-node)
+
 
 I also like to mess with Chromebooks.
 
@@ -14,14 +20,10 @@ I also like to mess with Chromebooks.
 
 <img alt="Contact" src="./stats.gif" width="182" height="94">
 
-![e9x's Stats](https://github-readme-stats.vercel.app/api?username=e9x&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-![e9x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=e9x&theme=default&hide_border=true)
-
-![e9x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e9x&theme=default&show_icons=true&hide_border=true&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/e9x?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <img alt="Accomplishments" src="./accomplishments.gif" width="624" height="94">
 
-<img alt="king of docker" src="./docker.png" width="417" height="311">
+- I am the King of Docker:
 
-https://ptb.discord.com/api/webhooks/1445932983449026612/r44pFpCU9FzJu1uaaEzSEmDZsYo6-DEZXt-BTUDE5MbB2KZJJxUsdjUQC7tlx3H3ab5E
+<img alt="king of docker" src="./docker.png" width="417" height="311">
