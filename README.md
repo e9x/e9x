@@ -13,10 +13,13 @@ If you’ve ever used one of these to play games in class instead of learning, I
 - [TompHTTP Specifications](https://github.com/tomphttp/bare-server-node)
 - [@tomphttp/bare-server-node](https://www.npmjs.com/package/@tomphttp/bare-server-node)
 
-
 I also like to mess with Chromebooks.
 
 - [chrome100](https://github.com/e9x/chrome100)
+
+I'm into cybersecurity. Check out my VSCode extension that uses Firejail to isolate your workspace from the rest of your system.
+
+- [Firejail Manager](https://marketplace.visualstudio.com/items?itemName=e9x.firejail-manager)
 
 <img alt="Contact" src="./stats.gif" width="182" height="94">
 
